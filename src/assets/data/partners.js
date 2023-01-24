@@ -1,0 +1,44 @@
+const Partners = [
+{
+   id:1,
+   name:"partner1",
+   img:require('../img/Vector-1.png')
+},
+{
+   id:2,
+   name:"partner2",
+   img:require('../img/Vector-2.png')
+},
+{
+   id:3,
+   name:"partner3",
+   img:require('../img/Vector-3.png')
+},
+{
+   id:4,
+   name:"partner4",
+   img:require('../img/Vector-4.png')
+},
+{
+   id:5,
+   name:"partner5",
+   img:require('../img/Vector-5.png')
+},
+{
+   id:6,
+   name:"partner6",
+   img:require('../img/Vector-6.png')
+},
+{
+   id:7,
+   name:"partner7",
+   img:require('../img/Vector-7.png')
+},
+{
+   id:8,
+   name:"partner8",
+   img:require('../img/Vector-8.png')
+},
+]
+
+export default Partners;
